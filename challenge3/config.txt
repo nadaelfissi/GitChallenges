@@ -1,0 +1,5 @@
+# Git Configuration Commands
+
+git config --global user.name "Nada Elfissi"
+git config --global user.email "nadaelfissi7@gmail.com"
+
